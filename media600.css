@@ -1,0 +1,45 @@
+@media screen and (max-width: 600px) {
+    .feedback-item {
+        max-width: 300px;
+    }
+
+    .doctor {
+        width: 150px;
+    }
+
+    .margin-media {
+        margin-bottom: 295px;
+    }
+
+    .product {
+        top: 570px;
+    }
+
+    .foto-box-promo {
+        bottom: -122px;
+        margin: 0;
+    }
+
+    .form {
+        width: 400px;
+    }
+
+    .promo {
+        height: 294px;
+    }
+
+    .ul {
+        margin: 0;
+    }
+
+    .btn {
+        width: 170px;
+    }
+
+    .button {
+        position: absolute;
+        bottom: -89px;
+        left: 31%; 
+    }
+
+}

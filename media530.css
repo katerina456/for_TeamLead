@@ -1,0 +1,47 @@
+@media screen and (max-width: 530px) {
+    .h1, .h2 {
+        font-size: 26px;
+    }
+
+    .text, .text-description {
+        font-size: 18px;
+    }
+    .ul {
+        display: none;
+    }
+
+    .video {
+        top: 0;
+    }
+
+    .foto-box-promo {
+        top: 78px;
+    }
+
+    .form {
+        width: auto;
+    }
+
+    .container-structure {
+        flex-direction: column;
+    }
+
+    .product {
+        position: initial;
+    }
+
+    .margin-media {
+        margin: 0;
+    }
+
+    .feedback-item {
+        max-width: 200px;
+    }
+
+    .arrows {
+        margin: 0;
+    }
+
+
+
+}
